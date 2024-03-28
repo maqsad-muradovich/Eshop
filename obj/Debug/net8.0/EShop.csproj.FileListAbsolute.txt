@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\Demo\EShop\bin\Debug\net8.0\EShop.exe
+C:\Users\Asus\Desktop\Demo\EShop\bin\Debug\net8.0\EShop.deps.json
+C:\Users\Asus\Desktop\Demo\EShop\bin\Debug\net8.0\EShop.runtimeconfig.json
+C:\Users\Asus\Desktop\Demo\EShop\bin\Debug\net8.0\EShop.dll
+C:\Users\Asus\Desktop\Demo\EShop\bin\Debug\net8.0\EShop.pdb
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.sourcelink.json
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.dll
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\refint\EShop.dll
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.pdb
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\EShop.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Demo\EShop\obj\Debug\net8.0\ref\EShop.dll
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.AssemblyInfoInputs.cache
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.AssemblyInfo.cs
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.csproj.CoreCompileInputs.cache
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.sourcelink.json
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.dll
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\refint\EShop.dll
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.pdb
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\bin\Debug\net8.0\EShop.exe
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\bin\Debug\net8.0\EShop.deps.json
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\bin\Debug\net8.0\EShop.runtimeconfig.json
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\bin\Debug\net8.0\EShop.dll
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\bin\Debug\net8.0\EShop.pdb
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\EShop.genruntimeconfig.cache
+C:\Users\Ahmadxon\Downloads\Telegram Desktop\EShop\obj\Debug\net8.0\ref\EShop.dll
